@@ -47,7 +47,7 @@ export const GlobalStyle = createGlobalStyle`
 
 	button {
 		cursor: pointer;
-	}
+	} 
 
 	[disable] {
 		opacity: 0.6;
